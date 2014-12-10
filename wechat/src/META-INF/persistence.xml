@@ -12,10 +12,10 @@
 			<property name="hibernate.connection.driver_class"
 				value="com.mysql.jdbc.Driver" />
 			<property name="hibernate.connection.url"
-				value="jdbc:mysql://localhost:3306/HCAPI?useUnicode=true&amp;characterEncoding=UTF-8" />
-			<property name="hibernate.connection.username" value="root" />
+				value="jdbc:mysql://127.4.29.130:3306/wechattest?useUnicode=true&amp;characterEncoding=UTF-8" />
+			<property name="hibernate.connection.username" value="adminrJu8xCw" />
 			<property name="hibernate.connection.password"
-				value="hcios" />
+				value="txLHtaLWdidZ" />
 		</properties>
 	</persistence-unit>
 </persistence>
